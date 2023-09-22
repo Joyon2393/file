@@ -661,7 +661,7 @@ ul#kc-totp-supported-apps {
     padding: 0 20px;
     max-width: 500px;
     border-top: 4px solid;
-    border-color: #0066CC; /* default - IE compatibility */
+    border-color: rgb(0, 204, 85); /* default - IE compatibility */
     border-color: var(--pf-global--primary-color--100);
 }
 
